@@ -57,7 +57,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url> # Replace with your repo URL
+    git clone https://github.com/jairzinhosantos/rag-azure.git # Replace with your repo URL
     cd RAG-AZURE
     ```
 2.  **Set up a virtual environment (recommended):**
