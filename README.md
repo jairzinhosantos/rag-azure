@@ -105,7 +105,3 @@ This project structure offers several advantages for agile development:
 4.  Commit your changes (`git commit -m 'Add some feature'`).
 5.  Push to the branch (`git push origin feature/YourFeature`).
 6.  Open a Pull Request.
-
-## :page_facing_up: License
-
-This project is licensed under the MIT License - see the LICENSE file for details (assuming an MIT license). 
